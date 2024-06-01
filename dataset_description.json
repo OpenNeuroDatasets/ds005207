@@ -1,5 +1,5 @@
 {
-    "Name": "Surrey sleep data set",
+    "Name": "Surrey cEEGrid sleep data set",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
@@ -15,5 +15,6 @@
         "Derk-Jan Dijk",
         "Annette Sterr",
         "Maarten De Vos"
-    ]
+    ],
+    "License": "CC0"
 }
