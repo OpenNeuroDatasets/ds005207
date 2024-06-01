@@ -1,0 +1,10 @@
+{
+    "Name": "Surrey sleep data set aligned",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "aligned1"
+        }
+    ]
+}

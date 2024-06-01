@@ -1,0 +1,19 @@
+{
+    "Name": "Surrey sleep data set",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Kaare B. Mikkelsen",
+        "James K Ebajemito",
+        "Maria A Bonmati-Carrion",
+        "Nayantara Santhi",
+        "Victoria L Revell",
+        "Giuseppe Atzori",
+        "Laura Birch",
+        "Ciro Della Monica",
+        "Stefan Debener",
+        "Derk-Jan Dijk",
+        "Annette Sterr",
+        "Maarten De Vos"
+    ]
+}
