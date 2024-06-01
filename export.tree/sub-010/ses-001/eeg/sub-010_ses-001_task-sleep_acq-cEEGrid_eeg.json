@@ -1,0 +1,19 @@
+{
+    "TaskName": "Sleep",
+    "SamplingFrequency": 250,
+    "EEGReference": "R4b",
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "TaskDescription": "The study participants were asked to stay in bed for 12 hrs between approximately 22:00 and 10:00 hours, during which they were allowed to sleep as much as they wanted ('ad libitum').",
+    "InstitutionName": "University of Oxford",
+    "InstitutionalDepartmentName": "Oxford Institute of Biomedical Engineering",
+    "InstitutionAddress": "Institute of Biomedical Engineering, Department of Engineering Science, Old Road Campus Research Building, University of Oxford, Headington, Oxford OX3 7DQ, UK",
+    "EEGChannelCount": 14,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 6,
+    "TriggerChannelCount": 0,
+    "EEGPlacementScheme": "10/20",
+    "RecordingDuration": 43768.996
+}
