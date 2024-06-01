@@ -17,5 +17,6 @@
         "Maarten De Vos"
     ],
     "License": "CC0",
-    "HowToAcknowledge": "Please cite Mikkelsen et al 2018: https://doi.org/10.1111/jsr.12786"
+    "HowToAcknowledge": "Please cite Mikkelsen et al 2018: https://doi.org/10.1111/jsr.12786",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005207.v1.0.0"
 }
